@@ -1,4 +1,4 @@
-# Digital-Ocean-Live-Projection
+# Digital-Ocean-Live-Projection by Dustand
 A projector hooked to a webcam pointed at the projection is needed with mouse.  Creates a digital ocean effect.  Requires a four corner calibration before display.  Wrong math made something beautiful so I share.
 This is presently PC code, but rust - so there's a good change I can get it to run on a mac or Raspberry pi if I set my mind to it.  And you can probably do just as well as I can.
 
