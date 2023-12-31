@@ -11,7 +11,7 @@ HOW TO:
 [5]  In tiny 6 point font there will be camera to projector calibration instructions... um... I'm not a "screen font bitmaps are low effort" programming ninja, sorry.  
       Just left click the four corners of the bright projection to calibrate.
 [6]  The digital ocean should roll in.  Enjoy the bright effect bad mathematics has on your skin, and bask in the subtle photonic waves.  
-[7]  Not much motion in the ocean?  um... you could rewrite the webcam drivers to make it melty or... try a faster webcam, or live feed from your phone with elgato's software?  Or try a beefy computer.  Or remember to use "cargo run --release".
+[7]  Not much motion in the ocean and you are interacting with it? um... you could rewrite the webcam drivers to make it melty or... try a faster webcam, or live feed from your phone with elgato's software?  Or try a beefy computer.  Or remember to use "cargo run --release".
 [8[  Resolution?  Yes, hardcoded mentions to a resolution supported by my projector might be included.  Seek them out and change them if required.
 
 Happy new year all.  Cheers, Dustan D
