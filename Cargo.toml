@@ -1,0 +1,13 @@
+[package]
+name = "christmascamera"
+version = "0.1.0"
+edition = "2021"    
+
+[dependencies]
+minifb = "0.25.0"
+image = "0.24.7"
+nokhwa-core = "0.1.2"
+minifb_fonts = "0.1"
+[dependencies.nokhwa]
+version = "0.10.4"
+features = ["input-native", "output-threaded"]
