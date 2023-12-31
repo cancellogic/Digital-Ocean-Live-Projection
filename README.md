@@ -13,4 +13,4 @@ HOW TO:
 [6]  The digital ocean should roll in.  Enjoy the bright effect bad mathematics has on your skin, and bask in the subtle photonic waves.  
 [7]  Not much motion in the ocean?  um... you could rewrite the webcam drivers to make it melty or... try a faster webcam, or live feed from your phone with elgato's software?  Or try a beefy computer.  Or remember to use "cargo run --release".
 
-PHOTOSENSITIVE WARNING:  The digital ocean may or may not cause drowning deaths during photosensitive seziures.  Just how flashy it gets depents on how much motion is in the webcam and situational lighting.  I find it calming, but if pool caustic lensing, flashing sun through palm leaves, and reflections are a hazard, for your safety, please stay clear.
+PHOTOSENSITIVE WARNING:  The digital ocean may or may not cause drowning deaths during photosensitive seziures.  Just how flashy it gets depents on how much motion is in the webcam and situational lighting.  I find it calming, but if pool caustic lensing, sun flashing through palm leaves, and reflections are a hazard, for your safety, please stay clear.
